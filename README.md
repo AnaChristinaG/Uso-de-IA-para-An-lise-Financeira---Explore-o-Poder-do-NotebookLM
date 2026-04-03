@@ -1,4 +1,4 @@
-# 🤖📊 Inteligência Artificial nas Finanças: Otimizando Investimentos
+## 🤖📊 Inteligência Artificial nas Finanças: Otimizando Investimentos
 
 ## 🚀 Contexto
 
@@ -8,7 +8,7 @@ Com o avanço de modelos de Machine Learning, Deep Learning e LLMs, investidores
 
 Este projeto explora como a IA pode ser utilizada na análise financeira, combinando teoria, prática e engenharia de prompts com apoio do NotebookLM.
 
-<img width="1376" height="768" alt="Capa Readme" src="https://github.com/user-attachments/assets/54eaac3a-a81a-4eed-8e9b-d8d71d9f708f" />
+![imagem para github](https://github.com/user-attachments/assets/0460a313-4f9f-4eb8-8595-2092b846d693)
 
 ---
 
