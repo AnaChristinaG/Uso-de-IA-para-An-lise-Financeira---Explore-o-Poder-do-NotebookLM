@@ -10,6 +10,7 @@ Este projeto explora como a IA pode ser utilizada na análise financeira, combin
 <img width="1376" height="768" alt="Capa Readme" src="https://github.com/user-attachments/assets/973097f6-8350-4161-9143-87cbef98e04c" />
 
 
+
 🎯 Objetivos
 Entender como a IA é aplicada na análise financeira
 Explorar técnicas como Machine Learning e Reinforcement Learning
